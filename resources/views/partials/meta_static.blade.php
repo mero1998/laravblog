@@ -1,0 +1,2 @@
+@section('meta_title') Blogs about web devleopment - PHP and laravel   @endsection
+@section('meta_description') Best blogs about web devleopment - PHP and laravel Advance your skill with our free resources @endsection
